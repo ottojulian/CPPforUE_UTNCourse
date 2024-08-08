@@ -5,8 +5,8 @@
 #include <time.h>
 #include <conio.h>
 
-/*b. Realizar un programa que permita la carga de 10 n˙meros en una lista o vector.
-Una vez cargados, se necesita que el programa determine cu·l es el mayor y cu·l es el
+/*b. Realizar un programa que permita la carga de 10 n√∫meros en una lista o vector.
+Una vez cargados, se necesita que el programa determine cu√°l es el mayor y cu√°l es el
 menor de ellos.*/
 
 int randomizer() {
