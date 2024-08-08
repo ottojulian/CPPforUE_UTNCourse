@@ -35,9 +35,9 @@ int main() {
 	std::cout << "\nGandalf has left the room\n";
 	fellowship.remove("Gandalf");
 	(void)_getch();
-	std::cout << "La aventura continúa. Salen de las minas pero los orcos los persiguen.\n";
+	std::cout << "La aventura continÃºa. Salen de las minas pero los orcos los persiguen.\n";
 	(void)_getch();
-	std::cout << "Boromir recibe un crítico, queda en 0hp y lo expulsan de la party.\n";
+	std::cout << "Boromir recibe un crÃ­tico, queda en 0hp y lo expulsan de la party.\n";
 	fellowship.remove("Boromir");
 	(void)_getch();
 	std::cout << "Quedan entonces: \n";
